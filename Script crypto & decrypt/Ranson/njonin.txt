@@ -1,0 +1,9 @@
+No Jonin
+
+Digitar: change
+Digitar: manage
+Digitar: connect 1
+Digitar: change
+Digitar: upload
+
+@/home/kali/Desktop/ranson/7z.exe|C:/Users/aluno/Desktop/arquivos_importantes/7z.exe@/home/kali/Desktop/ranson/7z.dll|C:/Users/aluno/Desktop/arquivos_importantes/7z.dll@/home/kali/Desktop/ranson/ranson.bat|C:/Users/aluno/Desktop/arquivos_importantes/ranson.bat@/home/kali/Desktop/ranson/ranson-decrypt.bat|C:/Users/aluno/Desktop/arquivos_importantes/ranson-decrypt.bat@
